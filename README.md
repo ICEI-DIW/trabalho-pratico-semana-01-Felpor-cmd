@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Filipe Jose Braga Dias
+Matricula: 888011
 
 ## Tela de inspeção com navegador
 
+<img src="CapturaDeTelaFerramentasGoogle.png" alt="Texto Alternativo">
 
 ## Tela de projeto no Replit
 
+<img src="CapturaDeTelaHelloWorld.png" alt="Texto Alternativo">
